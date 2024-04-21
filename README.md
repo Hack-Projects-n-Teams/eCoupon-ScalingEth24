@@ -1,4 +1,5 @@
-# 🏗 Scaffold-ETH 2
+
+# eCouponsWeb3
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
